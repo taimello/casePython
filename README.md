@@ -8,7 +8,9 @@ Projeto desenvolvido em Python, utilizando framework Flask. Utilizando banco de 
 Projeto testado no Insomnia.
 CRUD completo com Cadastro, Lista, Delete e Atualização
 
-Faça o clone do repositorio
+Fazer o clone do repositorio
+Rodar o cod no Pycharm para que fique disponivél no localhost da máquina
+Usar o tester de sua preferência 
 
 ## http://127.0.0.1:5000/cadastro URL DE CADASTRO 
 
