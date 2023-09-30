@@ -9,7 +9,7 @@ Projeto testado no Insomnia.
 CRUD completo com Cadastro, Lista, Delete e Atualização
 
 ### Fazer o clone do repositorio
-### Rodar o cod no Pycharm para que fique disponivél no localhost da máquina
+### Rodar o cod no Pycharm para que fique disponível no localhost da máquina
 	python versão 3.11.5
  baixar dependências
  
